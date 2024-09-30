@@ -1,7 +1,9 @@
 # ada-java
- Curso de Java da Comunidade ADA.
+## Curso Básico de Java da Comunidade ADA.
 * Variáveis
+* Booleanos
 * Condicionais
-* Estruturas de Controle
+* Manipulando Strings e Datas
+* Laços Numéricos
 * Vetores
 * Funções
